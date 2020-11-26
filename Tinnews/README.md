@@ -1,1 +1,1 @@
-https://github.com/cgchrfchscyrh/Personal-Projects/blob/master/Starlink/Starlink.gif
+![image](https://github.com/cgchrfchscyrh/Personal-Projects/blob/master/Tinnews/Tinnews.gif)
