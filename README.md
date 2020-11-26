@@ -1,6 +1,4 @@
 # Personal-Projects
-These are the code for my personal projects.
-
 Job+ : AWS based Web Service Development – Job Recommendation
     
     Front End:
