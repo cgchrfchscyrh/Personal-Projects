@@ -12,7 +12,7 @@ Job+ : AWS based Web Service Development – Job Recommendation
     • Designed algorithms (e.g., content-based recommendation) to implement job recommendation
     • Deployed to Amazon EC2 for more visibility.
 
-Hermes: a Spring and Hibernate based Shopping and Ordering system
+OnlineShop: a Spring and Hibernate based Shopping and Ordering system
 
     Used Spring framework to build a web application for users to shop and order items online.
     • Built a web application based on Spring MVC to support item search and listing (dependency injection, inversion of control, REST API etc.).
